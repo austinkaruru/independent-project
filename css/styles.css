@@ -1,10 +1,13 @@
 body {
   background-color: black;
-  text-align: center;
+  text-align: left;
   font-size: 20px;
   font-style: italic;
   color: white;
 }
 head {
   color: white;
+}
+img{
+  float: right;
 }
