@@ -4,4 +4,4 @@
 #### If you would like to contribute on how to improve it, please email me.
 ## karuruaustine@gmail.com
 ### Live site is austinkaruru.github.io/independent-project/
-### MIT License Copyright (c) {2018} austinkaruru
+### MIT (c) {2018} <a href="https://github.com/austinkaruru/independent-project/blob/gh-pages/LICENSE"> License </a> austinkaruru
